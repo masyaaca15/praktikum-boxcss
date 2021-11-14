@@ -1,0 +1,36 @@
+.box1 {
+    float: right;
+    width: 20%;
+    background-color: cyan;
+    height: 600px;
+    margin-right: 3em;
+    border-style: solid;
+    border-color: black;
+}
+.box2 {
+    margin-right: 3em;
+    float: right;
+    background-color: green;
+    width: 20%;
+    height: 600px;
+    border-style: solid;
+    border-color: black;
+}
+.box3 {
+    margin-right: 3em;
+    float: right;
+    background-color:tomato;
+    width: 20%;
+    height: 600px;
+    border-style: solid;
+    border-color: black;
+}
+.box4 {
+    margin-right: 3em;
+    float: right;
+    background-color:yellow;
+    width: 20%;
+    height: 600px;
+    border-style: solid;
+    border-color: black;
+}
